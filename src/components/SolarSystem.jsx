@@ -13,7 +13,8 @@ class SolarSystem extends React.Component {
           key={ i }
           planetImage={ planet.image }
         />)) }
-      </div>);
+      </div>
+    );
   }
 }
 
