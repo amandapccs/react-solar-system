@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Chewy&family=Sansita&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Berkshire+Swash&family=Chewy&family=Sansita&display=swap') ;
 
 body {
   background-image: url('https://wallpaperaccess.com/full/1314202.jpg');
@@ -9,16 +9,16 @@ body {
 }
 
 h1 {
-  text-align: center;
+  font-family: Berkshire Swash , cursive;
   font-size: 60px;
-  font-family: 'Berkshire Swash', cursive;
+  text-align: center;
   text-shadow: 1px 5px 5px black;
 }
 
 h2 {
-  font-family: 'Berkshire Swash', cursive;
+  font-family: Berkshire Swash , cursive;
 }
 
 p {
-  font-family: 'Sansita', sans-serif;
+  font-family: Sansita , sans-serif;
 }
