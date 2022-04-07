@@ -1,0 +1,33 @@
+.missions {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    border: 1px solid white;
+    background-color: rgba(0, 0, 0, 0.541);
+    border-radius: 10px;
+    width: 90%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.all-missions {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-bottom: 30px;
+}
+
+.mission {
+    border: 1px solid white;
+    width: 300px;
+    font-size: large;
+    background-color: rgba(7, 7, 7, 0.596);
+    border-radius: 10px;
+    margin: 10px 10px;
+    background-image: url('https://img.myloview.com.br/quadros/pixel-art-night-sky-aurora-borealis-northern-lights-effect-pixel-background-8-bit-400-231127650.jpg');
+    text-shadow: 1px 5px 5px black;
+}
+
+.missions h2 {
+    margin-top: 26px;
+}
