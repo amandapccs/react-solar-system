@@ -41,7 +41,3 @@ As imagens usadas e as informações das missões encontram-se na pasta *_data >
 ![162094721-c90f30c9-4298-4853-9e34-2441c23e524c](https://user-images.githubusercontent.com/97243572/169712187-ac20af1c-4aba-45cc-b2c5-834bfec7e43e.jpg)
 - Tela da aplicação exibindo os planetas e as missões.
 
-
-## Pessoa responsável pelo desenvolvimento:
-1. [amandapccs](https://github.com/amandapccs)
-
