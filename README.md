@@ -18,8 +18,6 @@ Neste projeto foi desenvolvido um modelo do sistema solar utilizando a bibliotec
 
 [Detalhes adicionais](#detalhes-adicionais)
 
-[Pessoa responsável pelo desenvolvimento](#pessoa-responsável-pelo-desenvolvimento)
-
 ## Tecnologias
 
 - Projeto desenvolvido na linguagem Javascript;
